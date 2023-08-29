@@ -2,6 +2,9 @@
 
 Welcome to the **Debank LuckyDraw Analysis** repository. This project aims to comprehensively analyze Debank's LuckyDraw data, extracting meaningful insights and probabilistic patterns. By exploring the collected data, we strive to uncover trends, participant probabilities, and prize distribution dynamics within the LuckyDraw system.
 
+## Debank Lucky Draw UI 
+![Screenshot](luckyDrawUI.png)
+
 ## Key Features
 
 - Real-time extraction of LuckyDraw data from the Debank platform.
@@ -14,6 +17,12 @@ Welcome to the **Debank LuckyDraw Analysis** repository. This project aims to co
 - Gain an in-depth understanding of LuckyDraw prize distribution and patterns.
 - Provide a valuable resource for data analysts and engineers interested in real-world data exploration.
 - Showcase proficiency in data analysis, manipulation, and visualization techniques.
+
+## Terminal Report
+![Screenshot](terminal.png)
+
+## CSV Report
+![Screenshot](dataReport.png)
 
 ## Usage
 
